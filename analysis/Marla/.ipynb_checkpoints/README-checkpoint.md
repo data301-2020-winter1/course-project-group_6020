@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: I'm third year comsci student who loves reading books !
-- Person 2: I am a 4th year Management student trying to do minor in computer science!
+- Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
 ## References
