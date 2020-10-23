@@ -10,10 +10,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your topic/interest in about 150-200 words
 
 {Add your stuff here}
-I want to inform that we have discuss the topic for the project. We will choose the data set bike sharing. The topic will be how can the weather affect the decision of cycling of people, also include wind speed and humidity. Then we want to find out what is the best and worst weathers that affect people when they cycle through actual data and then explain the reason using scientific knowledge.
-
-Through the group project, we are hoping to acquire deeper knowledge regarding data analytics and advance our technical skillset. Using data on bike sharing, we will further explore the correlation between weather specifically wind speed and humidity and people's tendency
-
 
 ## Describe your dataset in about 150-200 words
 
@@ -22,7 +18,7 @@ Through the group project, we are hoping to acquire deeper knowledge regarding d
 ## Team Members
 
 - Person 1: I'm third year comsci student who loves reading books !
-- Person 2: I am a 4th year Management student trying to do minor in computer science!
+- Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
 ## References
