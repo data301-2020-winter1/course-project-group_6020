@@ -5,7 +5,3 @@
 ## Description of images folder
 This folder is dedicated for storing the visualization of the data, additional images or any graphs, charts that we create while doing our project.
 
----
-
-### 
-*Image folder*

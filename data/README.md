@@ -3,3 +3,8 @@
 
 ## Description for data folder
 All data, including original data and processed data, will be stored in the folder with the same name respectively
+
+### Description of the data
+*The data is on bike sharing*
+> 
+---
