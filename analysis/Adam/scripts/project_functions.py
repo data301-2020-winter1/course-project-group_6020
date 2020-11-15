@@ -38,5 +38,6 @@ def load_and_process(url_or_path_to_csv_file):
 
 def Graph1(df):
     graph = sns.catplot(x="Weather", y="Total_users", hue="Week_day", col="Season", data=df)
-    sns.set_theme(style="dark")  
+    sns.set_theme(style="dark") 
+    
 
