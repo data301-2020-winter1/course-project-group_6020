@@ -2,10 +2,6 @@
 # Group_6020 - Let's make a great project!
 
 
-## Description of images folder
-This folder is dedicated for storing the visualization of the data, additional images or any graphs, charts that we create while doing our project.
+## Description for processed folder
+This folder is dedicated for data that has been processed and adjusted for readability and analysis
 
----
-
-### 
-*Image folder*
