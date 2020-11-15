@@ -3,7 +3,7 @@
 
 
 ## Description of analysis folder
-This folder is dedicated for storing analysis and work of all of the team members and also the final anlysis for the project.
+This folder is dedicated for storing analysis and work of all of the team members and also the final anlysis for the **project**.
 
 ### 
 1. Marla
