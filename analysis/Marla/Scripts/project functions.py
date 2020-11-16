@@ -32,6 +32,20 @@ def load_and_process(url_or_path_to_csv_file):
     df2['Season'] = df2['Season'].replace([1,2,3,4],["Spring","Summer","Fall","Winter"])
 
     print(df2)
-    
       
     return df2
+
+def graph_type1(df, var1, var2):
+   # graph= sns.displot(data=df, x='Temperature')
+    sns.set(rc={'figure.figsize':(25,20)})
+    graph= sns.displot( data=df, x= var1, y= var2, kind='kde', bw_adjust=0.01)
+    plt.title("Displot of " + var1 + " by " + var2)
+    
+def graph_type2 (df, var1, var2, var3):
+    
+    graph= sns.relplot( data=df, x=var1, y=var2, hue= var3)
+    plt.title("Relationship Plot of " + var1 + " by " + var2)
+    
+def graph_type3(df):
+    graph4=sns.heatmap(df.corr(), annot=True)
+    plt.title("Correlation matrix of " + df )
