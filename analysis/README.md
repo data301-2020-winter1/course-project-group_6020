@@ -9,3 +9,5 @@ This folder is dedicated for storing analysis and work of all of the team member
 1. Marla
 1. Adam
 1. Khai Hung
+
+![JoJo say Yes](https://i.pinimg.com/originals/ce/68/ac/ce68ac827852aec0f097e58d930c2032.gif)
