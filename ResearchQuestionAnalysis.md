@@ -14,7 +14,7 @@ According to the graph, there is not much difference between the weekday, includ
 From the graph, we notice that from windspeed 0.08 and 0.25, it has most peaks. Therefore we can conclude that it is the ideal wind speed that users intend to travel. Started from 0.3, the peaks start decreasing and there is a significant drop from 0.4 to 0.5
 ### Marla Purevjargal
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/MarlaGraph1.png)
-
+## Observation on the 1st graph:
 >This graph shows that higher the temprature, more casual users appear, however, temperature betweem 0.4-0.8 there are number of more casual users are appearing*
 >Between 0-1000 almost equal amount of destribution among different temperatures*
 
