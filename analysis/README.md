@@ -7,3 +7,5 @@ This folder is dedicated for storing analysis and work of all of the team member
 
 ### 
 1. Marla
+1. Adam
+1. Khai Hung
