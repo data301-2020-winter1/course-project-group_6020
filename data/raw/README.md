@@ -3,3 +3,7 @@
 
 ## Description for raw folder
 This folder is dedicated for raw datas that we will use to proceed on the project.
+
+> This is the *best* data **ever** - *Einstein*
+
+![JoJo say Yes](https://i.pinimg.com/originals/ce/68/ac/ce68ac827852aec0f097e58d930c2032.gif)
