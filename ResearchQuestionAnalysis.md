@@ -1,20 +1,19 @@
 # Our Question
 Through the group project, we are hoping to acquire more in-depth knowledge regarding data analytics and advance our technical skillset. In today’s contemporary world, reducing carbon footprint and living environmentally-friendly is absolutely crucial, thus; our group decided to use data on bike sharing to do our data analysis project. Using data on bike sharing, we will further explore the correlation between people’s decision to rent a bike and weather condition, precisely wind speed and humidity. Our data analysis will aim to answer this question: “Is there any correlation between renting a bike and weather condition (humidity & wind speed), if so what is considered as a best weather and worst weather to rent a bike?”. We aspire that bike-sharing companies will be able to construct and develop a marketing strategy with our data analysis; therefore, encourage communities and individuals to choose eco-friendly and healthy options such as cycling. We can imagine building a user-facing dashboard with this dataset in the final weeks of this course.
-## Graphs
-### Adam Collins
-![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/AdamGrpahs.png)
-Through these four graphs all four season are covered and at a glance a user can assume which season has the most days where bikes are being rented, 
-not just by registered users but casual users as well. Then from there you can see which days have the highest number of renters as well as what day of
-the week that data is taken from. Then finally you can see how weather affects rentals throughout each season. 
-* **__Spring:__** Spring surprised me with how low the numbers were. SUndays at a glance seemed particularly popular, not many people rented on good weather days but it seems people rented consistently regardless.
-* **__Summer:__** Summer seems to have had the second most users at a glance and perhaps it is just because the summer has more "normal" days that would be deemed good in other seasons but out of all the seasons it semms summer has the most users on "normal" days.
-* **__Fall:__** Fall surprisingly seems to have the most users consistently on "good" days. Which is surprising.
-* **__Winter:__** Winter has a surprisingly high amount of users in general, as well as the most users on "bad" days which is excdptionally odd to me.
 
-__Extra things to note:__
-1. At a glance it seems that spring has the most users on a good day, which is surprising. I figured Summer would have the most. But it made me realize 
-that perhaps when the weather is "good" in the summer, it might actually be too hot and that is why there is less users.
-2. Winter has more users than I expected, it even rivals spring.
+# Graphs
+
+## Adam Collins
+![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/AdamGrpahs.png)
+>Figure 1.1
+### Info
+Through these four graphs all four season are covered and at a glance a user can assume which season has the most days where bikes are being rented. 
+They can assume this not just based on the registered users but casual users as well. Then from there you can see which days have the highest number of renters as well as what day of the week that data is taken from. Then finally you can see how weather affects rentals throughout each season. 
+* **Spring:** Spring surprised me with how low the numbers were. Sundays at a glance seemed particularly popular, not many people rented on good weather days but it seems people rented consistently regardless.
+* **Summer:** Summer seems to have had the second most users at a glance and perhaps it is just because the summer has more "normal" days that would be deemed good in other seasons but out of all the seasons it seems summer has the most users on "normal" days.
+* **Fall:** Fall surprisingly seems to have the most users consistently on "good" days.
+* **Winter:** Winter has a surprisingly high amount of users in general, as well as the most users on "bad" days which is interesting.
+
 ### Khai Hung Luong
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraphs1.png)
 From the graph, we can see that users follow the usual pattern: they bike in good weather the most and normal weather. There is a small amount of users who bike in lightly bad weather, which we can infer that they only have bike as the travel means or their car broke and they have to use the bike as temporary means. One more thing to consider is that no one bikes in severe weather - which is quite obvious
