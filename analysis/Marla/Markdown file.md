@@ -1,4 +1,5 @@
 ## Jupyter lab is a powerful tool
+### 
 **Marla Purevjargal**
 *I am a management student who is struggling with data301*
 -I am trying my best
@@ -6,7 +7,9 @@
 -Bless me
 1. Data visiualization is fun but very confusing
 2. 
+3.
+
 >Markdown is useful
-$\iloc
+
 ---
 
