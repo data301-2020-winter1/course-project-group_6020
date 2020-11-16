@@ -3,8 +3,11 @@ Through the group project, we are hoping to acquire more in-depth knowledge rega
 ## Graphs
 ### Adam Collins
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/AdamGrpahs.png)
+### Info
+This
 ### Khai Hung Luong
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraphs1.png)
+### Info
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph2.png)
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph3.png)
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph4.png)
