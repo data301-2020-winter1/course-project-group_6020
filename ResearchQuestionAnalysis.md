@@ -25,13 +25,13 @@ Through the group project, we are hoping to acquire more in-depth knowledge rega
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/MarlaGraph3.png)
 
 ## Observation from Graph 3 
->This graph shows the correlation between wind speed and registered users with the factors of seasons*
--Spring less than 5000 registered users
--When windspeed is high, not many resigtered users rented a bike especially in fall and winter. Surprisingly in the spring, registered user's tendency to rent a bike during high windspeed weather is high.
+*-This graph shows the correlation between wind speed and registered users with the factors of seasons*
+*-Spring less than 5000 registered users*
+*-When windspeed is high, not many resigtered users rented a bike especially in fall and winter. Surprisingly in the spring, registered user's tendency to rent a bike during high windspeed weather is high.*
 -
 
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/MarlaGraph41.png)
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/MarlaGraph42.png)
 
 ## Observation from Graph 4 (Heat Graph)
->*This graph shows all the possible correlation between all columns*
+*-This graph shows all the possible correlation between all columns*
