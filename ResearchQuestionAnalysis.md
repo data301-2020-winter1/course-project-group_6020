@@ -6,25 +6,30 @@ In today’s contemporary world, reducing carbon footprint and living environmen
 ## Adam Collins
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/AdamGrpahs.png)
 >Figure 1.1
-### Info
-Through these four graphs all four season are covered and at a glance a user can assume which season has the most days where bikes are being rented. 
+* **Through these four graphs all four season are covered:** At a glance a user can assume which season has the most days where bikes are being rented. 
 They can assume this not just based on the registered users but casual users as well. Then from there you can see which days have the highest number of renters as well as what day of the week that data is taken from. Then finally you can see how weather affects rentals throughout each season. 
-* **Spring:** Spring surprised me with how low the numbers were. Sundays at a glance seemed particularly popular, not many people rented on good weather days but it seems people rented consistently regardless.
-* **Summer:** Summer seems to have had the second most users at a glance and perhaps it is just because the summer has more "normal" days that would be deemed good in other seasons but out of all the seasons it seems summer has the most users on "normal" days.
-* **Fall:** Fall surprisingly seems to have the most users consistently on "good" days.
-* **Winter:** Winter has a surprisingly high amount of users in general, as well as the most users on "bad" days which is interesting.
+1. **Spring:** Spring surprised me with how low the numbers were. Sundays at a glance seemed particularly popular, not many people rented on good weather days but it seems people rented consistently regardless.
+2. **Summer:** Summer seems to have had the second most users at a glance and perhaps it is just because the summer has more "normal" days that would be deemed good in other seasons but out of all the seasons it seems summer has the most users on "normal" days.
+3. **Fall:** Fall surprisingly seems to have the most users consistently on "good" days.
+4. **Winter:** Winter has a surprisingly high amount of users in general, as well as the most users on "bad" days which is interesting.
 
-### Khai Hung Luong
+## Khai Hung Luong
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraphs1.png)
-From the graph, we can see that users follow the usual pattern: they bike in good weather the most and normal weather. There is a small amount of users who bike in lightly bad weather, which we can infer that they only have bike as the travel means or their car broke and they have to use the bike as temporary means. One more thing to consider is that no one bikes in severe weather - which is quite obvious
+>Figure 2.1
+* **From this graph, we can see that users follow the usual pattern:** They bike in good weather the most followed by normal weather. There is a small amount of users who bike in lightly bad weather, which we can infer that they only have bike as the travel means or their car broke and they have to use the bike as temporary means. One more thing to consider is that no one bikes in severe weather - which is quite obvious
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph2.png)
-The graph demonstrates that people bike the most in fall and summer, which is quite obvious. However, there is a significant amount of users in Winter (double than in Spring and close to Summer), which is weird because usually Winter is colder than Spring and snowing will affect biking a lot. 
+>Figure 2.2
+* **This graph demonstrates that people bike the most in fall and summer:** Which is quite obvious. However, there is a significant amount of users in Winter, (double than in Spring and close to Summer). Which is weird because usually Winter is colder than Spring and snowing will affect biking a lot. 
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph3.png)
-According to the graph, there is not much difference between the weekday, including weekend. It is expected that there will be more users in the weekend than weekdays because people will have more free time. However Sunday has the least users among seven days. This reflects that people spends more time indoors when they have free time, and bikes are most used to do work, not entertain
+>Figure 2.3
+* **According this graph, there is not much difference between the weekdays, including weekend:** It is expected that there will be more users in the weekend than weekdays because people will have more free time. However Sunday has the least users among seven days. This reflects that people spends more time indoors when they have free time, and bikes are mostly used to do work, not to entertain.
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/KazGraph4.png)
-From the graph, we notice that from windspeed 0.08 and 0.25, it has most peaks. Therefore we can conclude that it is the ideal wind speed that users intend to travel. Started from 0.3, the peaks start decreasing and there is a significant drop from 0.4 to 0.5
-### Marla Purevjargal
+>Figure 2.4
+* **From the graph, we notice that from windspeed between 0.08 and 0.25, there are the most peaks:** Therefore we can conclude that it is the ideal wind speed that users intend to travel during. Starting from 0.3, the peaks start decreasing and there is a significant drop between 0.4 and 0.5.
+
+## Marla Purevjargal
 ![](https://github.com/data301-2020-winter1/course-project-group_6020/blob/main/image/GraphImages/MarlaGraph1.png)
+>Figure 3.1
 ## Observation on the 1st graph:
 >This graph shows the correlation between wind speed and registered users with the factors of seasons*
 >Spring less than 5000 registered users
