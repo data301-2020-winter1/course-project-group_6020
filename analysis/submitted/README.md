@@ -23,4 +23,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+
+> This is the *best* data **ever** - *Einstein*
+
+![JoJo say Yes](https://i.pinimg.com/originals/ce/68/ac/ce68ac827852aec0f097e58d930c2032.gif)
+
