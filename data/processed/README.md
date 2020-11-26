@@ -5,3 +5,6 @@
 ## Description for processed folder
 This folder is dedicated for data that has been processed and adjusted for readability and analysis
 
+> This is the *best* data **ever** - *Einstein*
+
+![JoJo say Yes](https://i.pinimg.com/originals/ce/68/ac/ce68ac827852aec0f097e58d930c2032.gif)
