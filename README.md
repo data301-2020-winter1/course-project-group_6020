@@ -2,10 +2,11 @@
 # Group_6020 - Let's make a great project!
 
 <<<<<<< HEAD
-- I love Emilia.
+Link for final video:
+https://drive.google.com/file/d/1R5j25SCGIr1BB17ikl6xkkB8Px7OJrmn/view
 =======
 
->>>>>>> 5ae5b010195737392e4de939fcc1a749e7865c06
+>>>>>>>
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
