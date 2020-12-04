@@ -22,7 +22,7 @@ We decide to use one of the datasets given by Dr.Moosvi. The dataset is the Bike
 
 ## Team Members
 
-<<<<<<< HEAD
+<<<<<<<
 1. Khai Hung: I'm third year comsci student who loves reading books !
 2. Marla: I am a 4th year Management student trying to do minor in computer science!
 3. Adam Collins: I'm a 4th year Comp Sci student trying my hardest.
@@ -30,7 +30,7 @@ We decide to use one of the datasets given by Dr.Moosvi. The dataset is the Bike
 - **Khai Hung**: I'm third year comsci student who loves reading books !
 - **Marla**: I am a 4th year Management student trying to do minor in computer science!
 - **Adam Collins**: I'm a 4th year Comp Sci student trying my hardest.
->>>>>>> 5ae5b010195737392e4de939fcc1a749e7865c06
+>>>>>>>
 
 ## References
 
